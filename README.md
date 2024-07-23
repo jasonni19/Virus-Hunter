@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZnTRu3kM3FW9P-7hQjnSIOAobhEItisRZQ&usqp=CAU
+<img src="https://static.vecteezy.com/system/resources/previews/012/854/389/original/sign-coronavirus-8-bit-pixel-corona-virus-outbreak-for-game-assets-in-illustration-stop-corona-virus-pixel-art-vector.jpg
 " width="100" height="100"/>
 
 # Virus-Hunter
