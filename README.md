@@ -1,4 +1,4 @@
-<img src="![corona-symbol-8bit-pixel-virus-vector-illustration-sign-stop-corona-virus-pixel-art_614713-337](https://github.com/user-attachments/assets/ffbf41c6-2037-44f6-af10-8102ea0b8f51)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtZnTRu3kM3FW9P-7hQjnSIOAobhEItisRZQ&usqp=CAU
 " width="100" height="100"/>
 
 # Virus-Hunter
