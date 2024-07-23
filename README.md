@@ -1,5 +1,8 @@
+![corona-symbol-8bit-pixel-virus-vector-illustration-sign-stop-corona-virus-pixel-art_614713-337](https://github.com/user-attachments/assets/d0c9824a-e1e6-46ba-9b2c-1b1ab0612048)
+
 # Virus-Hunter
 "Virus Hunter" was inspired by the need for an engaging and educational game that delves into the microscopic world of germs. By focusing on two distinct types of pathogens—Influenza and Ebola—the game aims to not only entertain but also inform players about these viruses and how the body's immune system combats them.
+
 
 # What It Does
 In "Virus Hunter," players take control of a white blood cell, navigating through the body to hunt down and eliminate germs. Along the way, they encounter various challenges and obstacles, all while learning important medical insights about the different behaviors and effects of Influenza and Ebola.
@@ -21,4 +24,3 @@ In the future, we plan to expand "Virus Hunter" with additional levels, each foc
 
 # Demonstration of the Game
 https://youtu.be/hyhLshv_coY?si=6IkB2TuoyZqBO1i0
-
