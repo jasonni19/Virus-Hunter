@@ -25,4 +25,8 @@ Through the development of "Virus Hunter," we gained a deeper understanding of g
 In the future, we plan to expand "Virus Hunter" with additional levels, each focusing on different types of pathogens. This will allow players to further explore the world of microbiology while encountering new challenges and learning experiences. Additionally, we aim to incorporate multiplayer features, enabling collaborative gameplay where players can work together to defeat outbreaks and save the body from infection.
 
 # Demonstration
-https://youtu.be/hyhLshv_coY?si=6IkB2TuoyZqBO1i0
+<p align="center">
+  <a href="https://youtu.be/hyhLshv_coY?si=6IkB2TuoyZqBO1i0" target="_blank">
+    <img src="https://img.youtube.com/vi/hyhLshv_coY/0.jpg" alt="YouTube Video">
+  </a>
+</p>
