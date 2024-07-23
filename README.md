@@ -1,5 +1,6 @@
-![corona-symbol-8bit-pixel-virus-vector-illustration-sign-stop-corona-virus-pixel-art_614713-337 (1)](https://github.com/user-attachments/assets/624836e0-e02b-4b91-a069-38c51ebc8ffb)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/624836e0-e02b-4b91-a069-38c51ebc8ffb" alt="corona symbol 8-bit pixel virus">
+</p>
 
 # Virus-Hunter
 "Virus Hunter" was inspired by the need for an engaging and educational game that delves into the microscopic world of germs. By focusing on two distinct types of pathogens—Influenza and Ebola—the game aims to not only entertain but also inform players about these viruses and how the body's immune system combats them.
